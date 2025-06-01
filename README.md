@@ -71,7 +71,7 @@ Estos errores indican que el servidor falló al procesar la solicitud.
 
 ## Proveedores de hosting web en España
 
-Aquí dejo algunas páginas que ofrecen servicios de hosting en España, por si quieres montar un sitio web:
+Aquí dejo algunas páginas que ofrecen servicios de hosting en España:
 
 - [SiteGround](https://es.siteground.com/): Hosting rápido, con soporte 24/7 y planes desde precios accesibles.
 - [Hostinger](https://www.hostinger.es/hosting-web): Ofrece hosting rápido y soporte técnico, con migración gratuita.
@@ -79,6 +79,4 @@ Aquí dejo algunas páginas que ofrecen servicios de hosting en España, por si 
 - [Arsys](https://www.arsys.es/hosting): Alojamiento con discos SSD y buena escalabilidad.
 - [IONOS](https://www.ionos.es/alojamiento/alojamiento-web): Hosting con dominio gratis y buen rendimiento.
 
----
 
-Este trabajo resume lo básico sobre páginas web estáticas y dinámicas, los principales errores HTTP que podemos encontrar y algunas opciones de hosting.
