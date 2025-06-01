@@ -24,11 +24,11 @@ Las páginas web dinámicas, por otro lado, sí cambian dependiendo de lo que ha
 - Permiten mayor interacción y funcionalidades más complejas.
 - Son las que se usan en tiendas online, redes sociales, blogs, etc.
 
-## ¿Qué errores HTTP existen? Clasificación
+## ¿Qué errores HTTP existen? 
 
 Cuando accedemos a una página web, el servidor responde con un código HTTP que indica si todo fue bien o si hubo algún problema. Estos códigos se dividen en cinco grupos:
 
-### 1xx: Respuestas informativas
+### Respuestas informativas
 
 Estos códigos indican que la solicitud está en proceso, pero no son muy comunes de ver.
 
